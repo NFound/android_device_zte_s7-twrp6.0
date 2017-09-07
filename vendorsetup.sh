@@ -1,0 +1,1 @@
+add_lunch_combo omni_s7-userdebug
